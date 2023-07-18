@@ -8,5 +8,7 @@ me and my security team ran some procedures which allowed us to resolve the prob
 first of all we implemented a new firewall rule to limit the rate of incoming ICMP packets.Then we configured Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets
 After that we had to implement network monitoring software to detect abnormal traffic patterns.At the end we implemented an IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics.<br>
 After the incident me and my team was asked to construct a report about this incident using  the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF).<br>
+<a href ="Incident report analysis using NIST CSF.pdf"> The Incident response report </a>
+
 
 
